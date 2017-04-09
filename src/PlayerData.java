@@ -8,6 +8,7 @@
  *
  * @author Daniel
  */
+public class PlayerData {
     static int playerCount;
     String name;
     String Country;
