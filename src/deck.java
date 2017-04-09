@@ -14,7 +14,11 @@ public class deck {
 	public void compare() {
 		//Implement way to compare decks
 	}
+	public void visibility() {
+		
+	}
 	//Probably also need functions related to removing cards?
+	
 	
 
 }
